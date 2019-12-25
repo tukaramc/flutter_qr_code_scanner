@@ -14,7 +14,7 @@ dependencies:
   barcode_scan:
     git:
        url: https://github.com/tukaramc/barcode_scan.git
-       ref: master
+       ref: f2ca6a59a5d5911797a71d93c278f1d9a7d14d8c
 
 dev_dependencies:
   flutter_test:
